@@ -193,9 +193,6 @@ npm run dev
 ```
 
 <br>
-## Demo
-
-A working prototype of the cloud-side dashboard is live, simulating a fleet of wearables reporting classified status, vitals, and location in real time.
 
 ---
 ## Team
