@@ -30,6 +30,30 @@ The **Jeevan Rakshak** wearable health and safety device built for people who fa
 
 **Power efficient operation** - Low-power modes and optimized sampling on a rechargeable Li-Po battery, since the device is meant to run continuously.
 
+**Sensing**
+- Continuous heart rate & SpO₂ monitoring
+- Continuous body temperature monitoring
+- Ambient temperature & humidity sensing
+- Motion tracking with fall and inactivity detection
+- GPS location tracking
+
+**Intelligence**
+- On-device (edge) AI risk classification — `NORMAL` / `WARNING` / `CRITICAL`
+- Multi-parameter analysis that flags dangerous *combinations* of readings, not just single-metric spikes
+- Fully offline core detection — no dependency on cloud connectivity
+
+**Alerts**
+- OLED display with plain-language warnings (e.g. `HEAT RISK DETECTED — MOVE TO COOL AREA`)
+- Buzzer with escalating patterns (silent → warning beep → continuous alarm)
+- Vibration motor for silent/tactile alerts
+- Manual SOS button for immediate emergency override
+- GPS location automatically attached to critical/SOS events
+
+**System**
+- Rechargeable Li-Po battery with low-power operating modes
+- Privacy-preserving architecture — raw sensor data stays on-device
+- Cloud dashboard for remote monitoring of multiple deployed wearables
+
 <br>
 
 ---
@@ -145,8 +169,9 @@ Node.js / Python FastAPI • RESTful + WebSocket • JWT + OAuth 2.0 • Redis +
 # Clone the repository
 git clone https://github.com/<your-username>/jeevan-rakshak.git
 cd jeevan-rakshak
+###
 
-#### 2️⃣ Backend Setup
+####   2️⃣ Backend Setup
 
 ```bash
 cd backend
