@@ -96,7 +96,7 @@ The **Jeevan Rakshak** wearable health and safety device built for people who fa
 | Li-Po battery | Portable power |
 | Enclosure | Wearable protection |
 
-** Safety Features:**
+**Safety Features:**
 - No manual intervention required
 - Heading-based intelligent lane detection
 - Distance verification prevents premature activation
@@ -104,7 +104,7 @@ The **Jeevan Rakshak** wearable health and safety device built for people who fa
 
 <br>
 
-## How It Works
+##How It Works
 
 1. **Sense** — sensors continuously collect heart rate, SpO₂, temperature, humidity, and motion data
 2. **Process** — the ESP32-S3 receives and filters sensor readings
