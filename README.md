@@ -166,7 +166,7 @@ Node.js / Python FastAPI • RESTful + WebSocket • JWT + OAuth 2.0 • Redis +
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/jeevan-rakshak.git
+git clone https://github.com/Derwin7z/jeevan-rakshak.git
 cd jeevan-rakshak
 ```
 
