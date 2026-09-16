@@ -4,7 +4,7 @@
 
 ### Jeevan Rakshak
 
-*Every Beat Counts. A Safer Tomorrow. *
+**Every Beat Counts. A Safer Tomorrow. **
 
 [![LIVE DEMO](https://img.shields.io/badge/🌐_-DOCS-blue?style=for-the-badge)](https://jeevanrakshak.base44.app/#edge-ai)
 [![DOCUMENTATIONS   ](https://img.shields.io/badge/🌐_LIVE-DEMO-blue?style=for-the-badge)](https://qr-codes.io/Xmmmmf)
