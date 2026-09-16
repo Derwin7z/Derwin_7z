@@ -26,7 +26,7 @@ The **Jeevan Rakshak** wearable health and safety device built for people who fa
 
 **Fall & inactivity detection** - accelerometer/gyroscope detects sudden impact, then checks for follow-up stillness.
 
-**GPS-based emergency location - Location is attached to any critical event so responders know where to go.
+**GPS-based emergency location** - Location is attached to any critical event so responders know where to go.
 
 **Power efficient operation** - Low-power modes and optimized sampling on a rechargeable Li-Po battery, since the device is meant to run continuously.
 
