@@ -160,8 +160,7 @@ Node.js / Python FastAPI • RESTful + WebSocket • JWT + OAuth 2.0 • Redis +
 
 <br>
 
-```
-### Installation
+## Installation
 
 #### 1️⃣ Clone Repository
 
