@@ -169,13 +169,14 @@ Node.js / Python FastAPI • RESTful + WebSocket • JWT + OAuth 2.0 • Redis +
 # Clone the repository
 git clone https://github.com/<your-username>/jeevan-rakshak.git
 cd jeevan-rakshak
+```
 
 ####   2️⃣ Backend Setup
 
 ```bash
 cd backend
 python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+source venv/bin/activate  # Windows: derw\Scripts\activate
 pip install -r requirements.txt
 cp .env.example .env
 python manage.py migrate
@@ -195,6 +196,7 @@ npm run dev
 ## Demo
 
 A working prototype of the cloud-side dashboard is live, simulating a fleet of wearables reporting classified status, vitals, and location in real time.
+
 ---
 ## Team
 
