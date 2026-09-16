@@ -169,7 +169,6 @@ Node.js / Python FastAPI • RESTful + WebSocket • JWT + OAuth 2.0 • Redis +
 # Clone the repository
 git clone https://github.com/<your-username>/jeevan-rakshak.git
 cd jeevan-rakshak
-###
 
 ####   2️⃣ Backend Setup
 
