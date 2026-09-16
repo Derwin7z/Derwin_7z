@@ -199,7 +199,12 @@ A working prototype of the cloud-side dashboard is live, simulating a fleet of w
 ---
 ## Team
 
-*(Add team name and member names here.)*
+*(Mohammed Abid M
+  Saharsh Jayachandra
+  W Derwin Gnanaraj
+  Harshit N
+  Prajasri TG
+  Shinjini. A)*
 
 
 ## 🙏 Acknowledgments
