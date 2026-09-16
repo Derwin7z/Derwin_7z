@@ -104,16 +104,16 @@ The **Jeevan Rakshak** wearable health and safety device built for people who fa
 
 <br>
 
-##How It Works
+### How It Works
 
-1. **Sense** — sensors continuously collect heart rate, SpO₂, temperature, humidity, and motion data
+1. **Sensors** — continuously collect heart rate, SpO₂, temperature, humidity, and motion data
 2. **Process** — the ESP32-S3 receives and filters sensor readings
 3. **Analyze** — the on-device AI examines current values, trends over time, and combinations of parameters
 4. **Decide** — the system classifies the state as `NORMAL`, `WARNING`, or `CRITICAL`
 5. **Alert** — the OLED, buzzer, and vibration motor notify the wearer immediately
 6. **Respond** — for critical conditions, the SOS mechanism and GPS location support emergency response
 
-## Why On-Device AI
+### Why On-Device AI
 
 | Principle | Benefit |
 |---|---|
