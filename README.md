@@ -1,10 +1,10 @@
 <div align="center">
 
-#  sentinels
+#  Sentinels
 
 ### Jeevan Rakshak
 
-*AI + *
+*AI *
 
 [![LIVE DEMO](https://img.shields.io/badge/🌐_-DOCS-blue?style=for-the-badge)](https://lanezy-frontend.vercel.app/)
 [![DOCUMENTATIONS   ](https://img.shields.io/badge/🌐_LIVE-DEMO-blue?style=for-the-badge)](https://qr-codes.io/Xmmmmf)
