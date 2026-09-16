@@ -77,9 +77,9 @@ The **Jeevan Rakshak** wearable health and safety device built for people who fa
 <br>
 
 ---
-### 1.
+### 
 
-## Hardware Components
+## 1.Hardware Components
 
 | Component | Purpose |
 |---|---|
@@ -96,7 +96,7 @@ The **Jeevan Rakshak** wearable health and safety device built for people who fa
 | Li-Po battery | Portable power |
 | Enclosure | Wearable protection |
 
-**Safety Features:**
+** Safety Features:**
 - No manual intervention required
 - Heading-based intelligent lane detection
 - Distance verification prevents premature activation
@@ -191,33 +191,6 @@ npm install
 cp .env.example .env.local
 npm run dev
 ```
----
-
-## System Strengths
-
-### Technical Excellence
-- **Hybrid Architecture** - Seamless AI, IoT, and geospatial integration
-- **Real-time Processing** - Sub-second latency for critical operations
-- **Scalable Design** - Microservices-ready for city-wide deployment
-- **Hardware Light** - Minimal infrastructure requirements
-
-### Operational Benefits
-- **Deterministic Control** - Predictable and fair traffic management
-- **Automated Enforcement** - Reduces manual workload
-- **Emergency Response** - Life-saving automatic override
-- **High Accuracy** - >95% AI detection accuracy
-
-### Citizen-Centric
-- **Public Transparency** - Open access to data and heatmaps
-- **Direct Participation** - Citizen reporting channels
-- **Instant Assistance** - Sub-minute tow response
-- **Accountability** - Full audit trails
-
-### Safety & Compliance
-- **Proactive Prevention** - Physical barriers stop violations
-- **Evidence-Based** - Automated violation capture
-- **Officer Oversight** - Human verification loop
-- **Audit Trails** - Complete legal compliance
 
 <br>
 ## Demo
