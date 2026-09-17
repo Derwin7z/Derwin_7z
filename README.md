@@ -59,7 +59,7 @@ The **Jeevan Rakshak** wearable health and safety device built for people who fa
 ---
 
 ## System Architecture
-
+```
 
  JEEVAN RAKSHAK
                        │
