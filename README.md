@@ -95,9 +95,9 @@ The **Jeevan Rakshak** wearable health and safety device built for people who fa
 
 ```
 
-## Circuit Connection
+## Schematic Ciruit
 
-check out the [Circuit connection](https://drive.google.com/file/d/1aH8lC_qipS-icJD9Ymf0qIT1604Vhzgu/view?usp=drivesdk)
+Check Out [Link](https://drive.google.com/file/d/1aH8lC_qipS-icJD9Ymf0qIT1604Vhzgu/view?usp=drivesdk)
 
 
 
