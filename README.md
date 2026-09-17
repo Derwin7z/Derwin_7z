@@ -61,7 +61,35 @@ The **Jeevan Rakshak** wearable health and safety device built for people who fa
 ## System Architecture
 
 
-
+                  JEEVAN RAKSHAK
+                       │
+        ┌──────────────┴──────────────┐
+        │                             │
+ HEALTH SENSORS                 ENVIRONMENT SENSORS
+        │                             │
+   MAX30102                      BME280
+   MAX30205                      PM2.5
+        │                             │
+        └──────────────┬──────────────┘
+                       ↓
+                 ┌──────────┐
+                 │  ESP32   │
+                 │          │
+                 │ Edge AI  │
+                 └────┬─────┘
+                      ↓
+              RISK DETECTION
+                      ↓
+        ┌─────────────┼─────────────┐
+        ↓             ↓             ↓
+      NORMAL        WARNING       CRITICAL
+        │             │             │
+        └─────────────┼─────────────┘
+                      ↓
+             OLED + BUZZER
+                + VIBRATION
+                      │
+                 GPS / SOS
 
 
 
